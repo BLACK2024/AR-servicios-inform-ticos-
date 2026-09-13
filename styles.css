@@ -45,3 +45,8 @@ footer{border-top:1px solid rgba(255,255,255,.07);padding:24px 0;color:#6f8499;f
 .btn-facebook{border:1px solid rgba(0,217,255,.45);background:rgba(8,36,57,.75);color:#dff8ff}
 .btn-facebook svg{width:20px;height:20px;fill:currentColor}
 .btn-facebook:hover{transform:translateY(-2px);border-color:var(--cyan);color:var(--cyan);box-shadow:0 0 28px rgba(0,217,255,.16)}
+
+/* LinkedIn */
+.linkedin-link{display:inline-flex;align-items:center;gap:7px;color:#b7c7da}.linkedin-link:hover{color:var(--cyan)}.linkedin-link svg{width:18px;height:18px;fill:currentColor}
+.btn-linkedin{border:1px solid rgba(0,217,255,.45);background:rgba(8,36,57,.75);color:#dff8ff}.btn-linkedin svg{width:20px;height:20px;fill:currentColor}.btn-linkedin:hover{transform:translateY(-2px);border-color:var(--cyan);color:var(--cyan);box-shadow:0 0 28px rgba(0,217,255,.16)}
+.linkedin-card .social-icon{color:var(--cyan)}.linkedin-card .social-icon svg{width:23px;height:23px;fill:currentColor}

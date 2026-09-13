@@ -23,3 +23,5 @@ Abrir `index.html` en un navegador. No necesita servidor ni base de datos.
 Para publicar: subir los cuatro elementos respetando la carpeta `assets/` a cualquier hosting estático.
 
 Facebook: https://www.facebook.com/profile.php?id=100057712087566
+
+- LinkedIn: https://www.linkedin.com/in/alejandro-rojas-54269010b?utm_source=share_via&utm_content=profile&utm_medium=member_android
