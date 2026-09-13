@@ -6,7 +6,7 @@ Página web responsive inspirada en el flyer proporcionado.
 - `index.html` — estructura y contenido.
 - `styles.css` — diseño responsive, estilo tecnológico oscuro/cian.
 - `script.js` — menú móvil.
-- `assets/pc-tecnologia.jpg` — recorte de la imagen del flyer utilizado como recurso visual.
+- `assets/alejandro-rojas-servicios.jpg` — imagen completa proporcionada para la identidad visual.
 
 ## WhatsApp
 Los botones están configurados para abrir una conversación con:
@@ -21,3 +21,5 @@ También se incluyen mensajes iniciales diferentes según el botón.
 Abrir `index.html` en un navegador. No necesita servidor ni base de datos.
 
 Para publicar: subir los cuatro elementos respetando la carpeta `assets/` a cualquier hosting estático.
+
+Facebook: https://www.facebook.com/profile.php?id=100057712087566
