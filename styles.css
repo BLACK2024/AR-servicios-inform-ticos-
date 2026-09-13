@@ -40,3 +40,8 @@ footer{border-top:1px solid rgba(255,255,255,.07);padding:24px 0;color:#6f8499;f
 /* Facebook */
 .facebook-link{display:inline-flex;align-items:center;gap:7px;color:#b7c7da}.facebook-link:hover{color:var(--cyan)}.facebook-link svg{width:18px;height:18px;fill:currentColor}.social-card{display:flex;align-items:center;gap:14px;z-index:1;min-width:220px;padding:11px 14px;border:1px solid rgba(0,217,255,.2);border-radius:12px;background:rgba(2,12,22,.55);transition:.25s}.social-card:hover{border-color:var(--cyan);transform:translateY(-2px)}.social-card small{display:block;color:#7f9bb3;font-size:9px;letter-spacing:2px}.social-card strong{font-size:21px}.social-icon{width:45px;height:45px;border-radius:50%;display:grid;place-items:center;border:1px solid rgba(0,217,255,.4);color:var(--cyan)}.social-icon svg{width:23px;height:23px;fill:currentColor}.footer-content a{color:var(--cyan)}.footer-content a:hover{text-decoration:underline}
 @media(max-width:620px){.image-frame{height:330px}.social-card{margin-top:14px}}
+
+/* Facebook en el bloque principal */
+.btn-facebook{border:1px solid rgba(0,217,255,.45);background:rgba(8,36,57,.75);color:#dff8ff}
+.btn-facebook svg{width:20px;height:20px;fill:currentColor}
+.btn-facebook:hover{transform:translateY(-2px);border-color:var(--cyan);color:var(--cyan);box-shadow:0 0 28px rgba(0,217,255,.16)}
